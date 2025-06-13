@@ -1,3 +1,11 @@
 ---
-title: Welcome to my blog!
+title: My First Blog
 ---
+
+# はじめてのブログ
+
+山田です
+
+## 挨拶
+
+どうぞよろしくお願いします！
